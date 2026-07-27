@@ -1,2 +1,12 @@
 # jetsco-ui
-Reusable React + TypeScript UI components
+
+Internal React + TypeScript component library used across Jetsco Labs projects.
+
+## Install
+```bash
+npm install
+npm run storybook
+```
+
+## Components
+`Button` · `Card` · `Modal` · `Toast`
